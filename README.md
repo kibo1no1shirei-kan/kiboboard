@@ -30,3 +30,5 @@ Cherry MX2A Red
 SK6812 MINI-E
 PCB - to be designed 
 ```
+Same day calculated the amount of GPIO NEEDED for a iso 105 keyboard its 27 
+![alt text](keyboard-layout-1.png)
