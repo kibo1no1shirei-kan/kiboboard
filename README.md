@@ -10,7 +10,7 @@ created_at: "2025-7-26"
 
 ---
 
-July 26: Started the project 
+```July 26: Started the project 
 I finally got my account verfied
 and after some reaserch i realised that i need several componets 
 Keyboard switches
@@ -23,4 +23,4 @@ Plate for the keycapps
 stabilisiseds this is needed for the bigger keys like the space bar
 and the firmware needs to be coded up! 
 my Personal challange is to do this in a day!.
-
+```
