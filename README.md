@@ -23,4 +23,10 @@ Plate for the keycapps
 stabilisiseds this is needed for the bigger keys like the space bar
 and the firmware needs to be coded up! 
 my Personal challange is to do this in a day!.
+
+
+Current Parts list 
+Cherry MX2A Red
+SK6812 MINI-E
+PCB - to be designed 
 ```
