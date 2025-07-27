@@ -32,3 +32,33 @@ PCB - to be designed
 ```
 Same day calculated the amount of GPIO NEEDED for a iso 105 keyboard its 27 
 ![alt text](keyboard-layout-1.png)
+
+6 hours
+
+-------
+27/7/2025
+decided that that was the wrong layout
+![alt text](image.png)
+but instead without any home or the function cluster
+
+---------
+needed GPIO
+27 GPIO for keys 
+1 GPIO Per key RBG 
+1 UNDERGLOW
+9 rotary encoders(3)(this repaced the function key clusters)
+TFT SCRENN  1 3(cs,dc,reset)+ shared SPI TFT SCREEN 2 3 (CS,DC,RESET) 
+usb/misc1-2 
+
+= **54 total GPIOs**
+---------
+MOB 
+STM32F407VET6 (CONTROLLER)
+SK6812 MINI-E (LIGHTS)
+Cable Labs Artisanal Aviator Cable – Cyber Purple
+Cherry MX2A Red Switches
+ILI9341 320x240 TFT
+0.91 Oled I2C Iic Module Lcd Display Screen Ssd1306 Chip
+3 knobs with press
+
+
