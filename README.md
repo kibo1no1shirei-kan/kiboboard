@@ -81,4 +81,6 @@ and a USB C connector
 
  total hours spend 15
 
+ just read it might be august and hackpad i decided to read the hackpad and use that information instead
+
  
