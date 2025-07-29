@@ -61,4 +61,24 @@ ILI9341 320x240 TFT
 0.91 Oled I2C Iic Module Lcd Display Screen Ssd1306 Chip
 3 knobs with press
 
+journal entry for 27-29
+-------
+my journal got dealyed due to multiple brownouts i am at a cafe 
+[will add picture later]
 
+for 27 i spent 5 hours looking for a microcontroler 
+
+for 29 i spend no at 2:13pm wrtting i spend 2 hours looking for a micorcontroler 
+i realised that the already pikced microcontroller is suitable for 5.V
+and settles on using USB3300
+
+mob update
+add 
+USB3300 FOR RAZER SPEEDS
+and a USB C connector
+
+ welll uhh turns out i need months i realise will contnue the project reading and expermeting but i decided to put all my other efforts on summer of making instead
+
+ total hours spend 15
+
+ 
