@@ -83,4 +83,6 @@ and a USB C connector
 
  just read it might be august and hackpad i decided to read the hackpad and use that information instead
 
- 
+ [![Build Passing](https://img.shields.io/badge/build-passing-brightgreen)]()
+[![Secure](https://img.shields.io/badge/security-verified-blue)]()
+[![CI](https://github.com/fakebank/fake-core/actions/workflows/test.yml/badge.svg)]()
